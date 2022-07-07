@@ -2,6 +2,12 @@
 
 *Target: Create a Docker image less than 2MB with `Code.education Rocks!` response.*
 
+## Pre-Requirements
+
+- [Go](https://github.com/rogeriocassares/Tools/tree/main/Golang)
+- [Docker](https://github.com/rogeriocassares/Tools/tree/main/Docker)
+
+
 ## Quick-Start
 ```bash
 docker run rogeriocassares/fullcycle-docker-challenge-go:prod
